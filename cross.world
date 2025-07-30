@@ -74,7 +74,6 @@
       <pose>0 0 0.01 0 0 0</pose>
     </model>
 
-    <!-- Вертикальная часть креста -->
     <model name="vertical_cross">
       <static>true</static>
       <link name="link">
